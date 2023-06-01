@@ -1,4 +1,7 @@
 # BitCentAPI
+<h2 align="center">
+    <img alt="Bitcent" src="public/cover.svg" />
+</h2>
 BitCent é um API da Cod3r que apresenta uma solução para a organização financeira utilizando NextJS e Firebase.  
 
 Dentro as estratégias e conhecimentos aplicados, temos: <br><br>
@@ -25,7 +28,7 @@ Lista de tecnologias utilizadas no projeto:
 1. Clone o repositório:
 
 ```bash
-$ git clone https://github.com/transformacaodev/bitcent
+$ git clone https://github.com/silvaoliveirajoao/bitcentAPI
 $ cd bitcent
 ```
 
