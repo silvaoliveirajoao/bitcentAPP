@@ -2,7 +2,7 @@
 <h2 align="center">
     <img alt="Bitcent" src="public/cover.svg" />
 </h2>
-BitCent é um API da Cod3r que apresenta uma solução para a organização financeira utilizando NextJS e Firebase.  
+BitCent é uma aplicação da Cod3r que apresenta uma solução para a organização financeira utilizando NextJS e Firebase.  
 
 Dentro as estratégias e conhecimentos aplicados, temos: <br><br>
 -Composição e organização da estrutura de pastas de um projeto <br>
