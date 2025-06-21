@@ -1,4 +1,4 @@
-# BitCentAPI
+# BitCent APP
 <h2 align="center">
     <img alt="Bitcent" src="public/cover.svg" />
 </h2>
